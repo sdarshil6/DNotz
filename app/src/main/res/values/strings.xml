@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DNotz</string>
+    <string name="tv_description">One stop for taking notes</string>
+    <string name="et_addNote_hint">Click here to add a note</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="et_addTitle_hint">Add Title Here</string>
+    <string name="et_addDescription_hint">Add Description Here</string>
+    <string name="bt_saveNote">Save</string>
+    <string name="bt_deleteNote">Delete</string>
+
+    <string name="nav_share_title">Share this app</string>
+    <string name="nav_about_title">About</string>
+    <string name="nav_help_title">Help</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+</resources>
